@@ -8,11 +8,9 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
+          While making our project of E-Commerce Website Project this will be our second step in which we will find an interesting problem statement and try to generate an idea to solve that problem using our knowledge.
+
+Choose a topic related to your field of study that is of great interest to you. It is advised that you pick a topic that has a powerful motive. For instance, a project that helps humankind will truly be unmatched. Another factor to keep in mind is to choose topics that aren’t very common. Ex vel explicabo
           earum unde eligendi autem praesentium, doloremque distinctio nesciunt
           porro tempore quis eaque labore voluptatibus ea necessitatibus
           exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
